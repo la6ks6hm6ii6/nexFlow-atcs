@@ -7,7 +7,7 @@ timings and reduce congestion.
 
 ## Built With
 - Python
-- Real-time Sensor Data
+- JavaScript
 - Adaptive Algorithms
 
 ## Features
